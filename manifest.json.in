@@ -1,0 +1,17 @@
+{
+    "name": "qtquicktest.liu-xiao-guo",
+    "description": "description of qtquicktest",
+    "architecture": "@CLICK_ARCH@",
+    "title": "qtquicktest",
+    "hooks": {
+        "qtquicktest": {
+            "apparmor": "qtquicktest/qtquicktest.apparmor",
+            "desktop":  "qtquicktest/qtquicktest.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=qtquicktest
+Exec=qtquicktest
+Icon=qtquicktest/qtquicktest.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
